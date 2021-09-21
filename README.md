@@ -4,9 +4,14 @@ Starting styled mixins in React
 
 ## Description
 
-This is the code repo of my article "Starting styled mixins in React".
+This is the code repo of my article "Starting styled mixins in React". 
+
 
 ## Getting Started
+Clone this repo and start your journey with styled-components library in React. 
+It is a front-end library for styling your components using JavaScript instead of SASS or pure CSS. 
+
+Enjoy your way...
 
 ### Dependencies
 
