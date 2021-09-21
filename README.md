@@ -28,7 +28,6 @@ npm i
 ### Executing program
 
 * To run the code, simply execute start command.
-* Step-by-step bullets
 ```
 npm start
 ```
@@ -39,9 +38,7 @@ if you need any help regarding this repo, please email me at Khashi@Vegeloper.co
 
 ## Authors
 
-Contributors names and contact info
-
-Khashi Akhavan [@KhashiAkhavan](https://www.linkedin.com/in/khashi-akhavan)  
+Khashi Akhavan, connect with [@KhashiAkhavan](https://www.linkedin.com/in/khashi-akhavan)  
 
 ## Version History
 
