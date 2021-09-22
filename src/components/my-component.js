@@ -1,4 +1,4 @@
-import { MyContainer1, MyContainer2 } from "./containers";
+import { MyContainer1, MyContainer2 } from "../design/containers";
 
 //Code
 const MyReactComponent = (props) => (
