@@ -1,6 +1,6 @@
 # Starting styled mixins in React
 
-Part-2: Nested mixins and arguments
+Part-1: How to reuse CSS in JS
 
 ## Description
 
