@@ -1,6 +1,6 @@
-# Project Title
+# Starting styled mixins in React
 
-Starting styled mixins in React
+Part-2: Nested mixins and arguments
 
 ## Description
 
@@ -20,14 +20,14 @@ Enjoy your way...
 
 ### Installing
 
-* To setup the program, First install all dependencies.
+* To setup the program, First install all the dependencies.
 ```
 npm i
 ```
 
 ### Executing program
 
-* To run the code, simply execute start command.
+* To run the code, simply execute "start" command.
 ```
 npm start
 ```
